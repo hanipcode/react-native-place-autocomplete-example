@@ -4,7 +4,7 @@ import AutoCompleteBox from '../components/AutoCompleteBox';
 import AutoCompleteResultList from '../components/AutoCompleteResultList';
 import { getPredictionWithDetail } from '../services.js';
 
-const KEY = 'AIzaSyBSaIy4h3_7y_2KOD8Y2SiUeyDXUSJyUkY';
+const KEY = 'YOUR_API_KEY';
 
 class SearchPage extends Component {
   constructor(props) {

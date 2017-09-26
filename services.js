@@ -47,9 +47,3 @@ export function getPredictionWithDetail(searchQuery, key) {
       return err;
     });
 }
-
-// getPredictionWithDetail('Nusa', 'AIzaSyBc9_79lu5welQPRjLaSQS8iNhLgac6Zr8');
-// getPlaceDetails('ChIJIe0SGpQNuC0RxXX30MzCZ2k', 'Your_api_key').then(result => {
-//   console.log(result);
-// });
-// getPredictionList('Nusa', 'AIzaSyBc9_79lu5welQPRjLaSQS8iNhLgac6Zr8');
