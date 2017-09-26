@@ -1,3 +1,6 @@
+# react-native-place-autocomplete-example
+Example of using place autocomplete prediction API by Google with react native
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
